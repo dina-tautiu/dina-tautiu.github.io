@@ -1,0 +1,84 @@
+
+body{
+    background: rgb(9,9,121);
+background: linear-gradient(90deg, rgba(9,9,121,1) 0%,
+rgba(121,116,210,1) 0%, rgba(35,162,130,0.9248074229691877)
+63%);
+}
+
+.div1{
+    background-color: antiquewhite;
+    color: brown;
+    font-size: 15px;
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+    padding: 15px;
+    border: groove 5px black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    
+
+}
+h2{
+    color: rgb(214, 133, 34);
+    text-align: center;
+    font-style: italic;
+}
+.div2{
+    background-color: rgb(247, 255, 131);
+    color: rgba(170, 170, 21, 0.699);
+    font-size: 15px;
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+    padding: 15px;
+    border: dotted 8px rgb(38, 238, 20);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: inline-block;
+}
+.div3{
+    background-color: rgb(30, 30, 128);
+    color: rgb(97, 97, 245);
+    font-size: 15px;
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+    padding: 15px;
+    border: double 10px white;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+}
+.div4{
+    background-color: rgb(202, 31, 88);
+    color: rgb(199, 114, 199);
+    font-size: 15px;
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+    padding: 15px;
+    border: outset 12px papayawhip;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline-block;
+}
+.div5{
+    background-color: rgb(190, 234, 252);
+    color: rgb(21, 21, 245);
+    font-size: 15px;
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+    padding: 15px;
+    border: dashed 15px burlywood;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+}
+h3{
+    color: blueviolet;
+    background-color: aqua;
+    height: 75px;
+    width: 500;
+    vertical-align: middle;
+    text-align: center;
+
+}
